@@ -181,32 +181,32 @@ font-size:20px;
 /*==============RESPONSIVE LAYOUT=============*/
 @media only screen  and (min-width:600px){
     #meals {
-        width: 80px;
+        width: 80%;
         margin: auto;
     }
     #recipe{
-       width: 80px;
+       width: 80%;
         margin: auto;
     }  
 }
 
 @media only screen  and (min-width:1000px){
     #meals {
-        width: 60px;
+        width: 60%;
         margin: auto;
     }
     #recipe{
-       width: 60px;
+       width: 60%;
         margin: auto;
     }  
 }
 @media only screen  and (min-width:1500px){
     #meals {
-        width: 40px;
+        width: 40%;
         margin: auto;
     }
     #recipe{
-       width: 40px;
+       width: 40%;
         margin: auto;
     }  
 }
